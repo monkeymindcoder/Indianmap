@@ -1,0 +1,6 @@
+{
+  "name": "India 3D Map Explorer",
+  "description": "An interactive 3D topographic map of India with state/district-level exploration, climate overlays, historical cultural insights, search, and bookmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
